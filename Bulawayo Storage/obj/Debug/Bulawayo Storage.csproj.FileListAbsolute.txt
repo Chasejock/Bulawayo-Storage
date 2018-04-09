@@ -1,0 +1,18 @@
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\Bulawayo Storage.exe.config
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\Bulawayo Storage.exe
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\Bulawayo Storage.pdb
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo_Storage.AddStudent.resources
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo_Storage.Home.resources
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo_Storage.Properties.Resources.resources
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo_Storage.SearchDataBase.resources
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo Storage.csproj.GenerateResource.Cache
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo Storage.exe
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo Storage.pdb
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo Storage.csprojResolveAssemblyReference.cache
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\ExcelDataReader.dll
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\ExcelDataReader.xml
+C:\Users\Chase charsley\Documents\Visual Studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Chase charsley\Documents\Visual Studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\itextsharp.dll
+C:\Users\Chase charsley\documents\visual studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\bin\Debug\itextsharp.xml
+C:\Users\Chase charsley\Documents\Visual Studio 2017\Projects\Bulawayo Storage\Bulawayo Storage\obj\Debug\Bulawayo_Storage.GenerateInvoiceBasedOnCriteria.resources
